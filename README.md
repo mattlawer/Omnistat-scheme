@@ -16,6 +16,7 @@ The **[Omnistat 2](https://itunes.apple.com/app/id1473751241)** application is u
 | Settings          | settings | -         | omnistat://settings |
 | Share Diagnostic  | diagnose | -         | omnistat://diagnose |
 
+<p float="left">
 <img src="https://raw.githubusercontent.com/mattlawer/Omnistat-scheme/master/screenshots/Device.png" width="150px"/>
 <img src="https://raw.githubusercontent.com/mattlawer/Omnistat-scheme/master/screenshots/Wifi.png" width="150px"/>
 <img src="https://raw.githubusercontent.com/mattlawer/Omnistat-scheme/master/screenshots/Cellular.png" width="150px"/>
@@ -23,3 +24,4 @@ The **[Omnistat 2](https://itunes.apple.com/app/id1473751241)** application is u
 <img src="https://raw.githubusercontent.com/mattlawer/Omnistat-scheme/master/screenshots/Memory.png" width="150px"/>
 <img src="https://raw.githubusercontent.com/mattlawer/Omnistat-scheme/master/screenshots/Processor.png" width="150px"/>
 <img src="https://raw.githubusercontent.com/mattlawer/Omnistat-scheme/master/screenshots/Battery.png" width="150px"/>
+</p>
