@@ -2,7 +2,7 @@
 
 The **[Omnistat 2](https://itunes.apple.com/app/id1473751241)** application is using the **omnistat://** scheme to open the app in the desired place.
 
-### URLs by pages
+### URLs by page
 
 | Page              | Keyword  | Arguments | Example             |
 | ----------------- | -------- | --------- | ------------------- |
